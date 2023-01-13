@@ -3,13 +3,14 @@
     "id": 1,
     "boxer": "Kevin Andrews",
     "weightClass": "Super Welterweight",
-    "record": {
+    "record": [{
       "WINS": 10,
       "LOSSES": 0,
-      "DRAWS": 0,
+      "DRAWS": 0
+    }],   
     "height": "5 feet 11 inches",
     "reach": "73 inches",
     "img": "https://raw.githubusercontent.com/Vince489/Fighters/main/fighter-imgages/Jack.png"
-    }
+    
   }
 ]
